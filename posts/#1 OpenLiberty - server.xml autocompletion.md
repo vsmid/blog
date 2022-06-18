@@ -1,5 +1,7 @@
 # OpenLiberty - server.xml autocompletion
 
+**_Tue, Aug 18, 2020_**
+
 I no longer use Eclipse IDE which means I no longer get to use Websphere Liberty extension for editing OpenLiberty's server.xml file. Love, love, no love, love, no love, no love, no love is how I would describe my relationship with Eclipse IDE but this is maybe a theme for some future article.
 In this article I will show you how to easily have autocompletion capability while editing OpenLiberty's server.xml file.
 
